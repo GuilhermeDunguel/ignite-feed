@@ -1,0 +1,20 @@
+.header {
+  padding: 1.25rem 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 1rem;
+  
+  background-color: var(--gray-800);
+}
+
+.header > strong {
+  color: var(--gray-100);
+  font-size: 1.20rem;
+}
+
+.igniteLogo {
+  width: 2rem;
+}
