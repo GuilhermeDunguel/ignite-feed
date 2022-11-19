@@ -1,7 +1,7 @@
 <h1 align='center'>Ignite Feed</h1>
 
 <br>
-<img src="https://i.imgur.com/QUle7dq.jpeg" alt='projectBanner'>
+<img src="https://i.imgur.com/3V8LyN2.jpg" alt='projectBanner'>
 <hr>
 <h2 align='center'><a href="https://ignite-feed-mocha.vercel.app">Visite o projeto clicando aqui</a></h2>
 <h2>🟢 Sobre:</h2>
